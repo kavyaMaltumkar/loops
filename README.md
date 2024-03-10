@@ -14,7 +14,7 @@ print_positive_numbers(list1)
 print("\nInput:", list2)
 print_positive_numbers(list2)
 
- output
+# output
 
 Input: [12, -7, 5, 64, -14]
 Output: [12, 5, 64]
